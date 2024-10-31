@@ -1,4 +1,4 @@
-# bilgraf
+# bilgraf hafta 2 DirectX Tank Oyunu
 
 //
 //	DirectX12 > Tank Game Student Version
